@@ -130,5 +130,6 @@ dependencies {
     implementation 'com.tencent.bugly:crashreport:2.6.6.1'
     //运行时权限
     implementation'pub.devrel:easypermissions:1.2.0'
+    implementation 'com.github.zhouzhuo810:ZzExcelCreator:1.0.7'
 
 }
